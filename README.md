@@ -1,3 +1,2 @@
 # Flatpak-Package-Manager
 Данный скрипт предназначен для управления пакетами Flatpak для новичков исключительно для дистрибутивов Linux. Для того чтобы активировать вам нужно прописать команду в терминале: python3 Flatpak-Package-Manager.py.
-Screnshot_Program
